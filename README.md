@@ -12,7 +12,7 @@ Visitor: Can view all teams and their news without logging in, put a club in his
 
 The application was developed using the Flutter framework with API integration to make the application available for both Android and iOS systems.
 
-There are many other features amazing. Please contact me for full details at email: alnbyhbha@gmail.com.
+There are many other features amazing. Please contact me for full details
 
 Some App Screens:-
 
